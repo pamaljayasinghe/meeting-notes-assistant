@@ -25,4 +25,4 @@ A modern, intuitive meeting notes management system built with Next.js and React
 
 1. Clone the repository:
 ```bash
-[git clone https://github.com/yourusername/meeting-notes-assistant.git](https://github.com/pamaljayasinghe/meeting-notes-assistant.git)
+https://github.com/pamaljayasinghe/meeting-notes-assistant.git
