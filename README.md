@@ -1,2 +1,28 @@
-# meeting-notes-assistant
-A modern React-based meeting notes assistant with real-time transcription, priority management, and action item tracking. Built with Next.js and shadcn/ui.
+# Meeting Notes Assistant
+
+A modern, intuitive meeting notes management system built with Next.js and React. Streamline your meeting documentation with real-time transcription, priority-based organization, and comprehensive note management.
+
+## 🚀 Features
+
+- 📝 Real-time meeting transcription
+- 🎯 Priority-based note organization
+- ✅ Action item tracking
+- 📊 Decision logging
+- 🎨 Modern, responsive UI
+- 🔄 Edit and update capabilities
+- 🏷️ Color-coded priority system
+
+## 🛠️ Tech Stack
+
+- Next.js 14
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui components
+- Lucide Icons
+
+## 🚦 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/meeting-notes-assistant.git
